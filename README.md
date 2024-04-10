@@ -66,7 +66,7 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td>
      <td align="center">
       <a href="https://github.com" target="_blank">
-      OGU
+      OGU=김민아
       </a>
     </td> 
      <td align="center">
