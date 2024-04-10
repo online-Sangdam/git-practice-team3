@@ -1,4 +1,5 @@
 # 📟git-practice-team3
+
 coming soon git 실습을 위한 레포입니다.<br>
 조원 분들은 아래 가이드에 따라서 실습을 진행해주세요.
 
@@ -14,20 +15,19 @@ coming soon git 실습을 위한 레포입니다.<br>
 7. pull request 제목과 설명을 작성하고, 멘토 및 나머지 팀원들을 리뷰어로 지정하여 변경 사항을 검토할 수 있도록 권한을 부여합니다.
 8. 프로젝트 관리자가 변경 사항을 병합할 수 있도록 pull request를 제출합니다.
 
-
-
 <br>
 
 ## 🦕 Member
+
 ### Team
+
 <table>
 <tr>
 <td align="center"> 멘토 </td>
+<td align="center"> Ogu1208</td>
 <td align="center"> 멘티</td>
 <td align="center"> 멘티</td>
 <td align="center"> 멘티</td>
-<td align="center"> 멘티</td>
-
 
 </tr>
   <tr>
@@ -37,8 +37,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
     </td>
      <td align="center" width="120px">
-      <a href="https://github.com" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원1" />
+      <a href="https://github.com/Ogu1208" target="_blank">
+        <img src="https://i.namu.wiki/i/VxdEKDNZCp9hAW5TU5-3MZTePLGSdlYKzEZUyVLDB-Cyo950Ee19yaOL8ayxgJzEfMYfzfLcRYuwkmKEs2cg0w.webp" alt="오구사진" />
       </a>
     </td>
     <td align="center" width="120px">
@@ -66,7 +66,7 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td>
      <td align="center">
       <a href="https://github.com" target="_blank">
-      🦕
+      OGU
       </a>
     </td> 
      <td align="center">
