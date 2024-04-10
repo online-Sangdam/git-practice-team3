@@ -71,7 +71,7 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td> 
      <td align="center">
       <a href="https://github.com/tejava7177" target="_blank">
-      심주흔
+      20204020심주흔
       </a>
        <td align="center">
       <a href="https://github.com" target="_blank">
